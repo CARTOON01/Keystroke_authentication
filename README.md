@@ -7,7 +7,7 @@
 
 ## Description
 
-A website to collect keystrokes and to apply the [continuous-authentication-service](https://github.com/tasoskakour/continuous-authentication-service)
+A website to collect keystrokes and to apply the [continuous-authentication-service](https://github.com/CARTOON01/Keystroke_authentication)
 
 ### Procedure of service
 
